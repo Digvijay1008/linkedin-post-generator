@@ -1,0 +1,18 @@
+
+# Environment variables
+.env
+.env.local
+
+# Build directories
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Local data
+pillar_state.json
+
+# Streamlit logs
+.streamlit/
